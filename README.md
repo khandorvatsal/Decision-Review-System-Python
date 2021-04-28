@@ -1,3 +1,3 @@
 # Decision-Review-System-Python
 
-We've created this DRS system in Python as a part of our Semester 4 mini project.
+This project was created as a part of Open Source Technology Lab (Semester IV).
